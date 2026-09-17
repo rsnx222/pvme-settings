@@ -1611,6 +1611,12 @@
           "id": "zurielsstaff",
           "emoji_id": "797895640154636328",
           "emoji_server": "8"
+        },
+        {
+          "name": "Staging submission test 2026-09-17",
+          "id": "staging_submission_test_20260917",
+          "image": "kSzcNN5.png",
+          "preset_type": "item"
         }
       ]
     },
