@@ -9237,6 +9237,12 @@
           "id": "zamorakbrew",
           "emoji_id": "841409588632092694",
           "emoji_server": "13"
+        },
+        {
+          "name": "its a chicken",
+          "id": "its_a_chicken",
+          "image": "H2aFdTCHQ7.png",
+          "preset_type": "item"
         }
       ]
     },
