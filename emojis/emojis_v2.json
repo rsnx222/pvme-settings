@@ -8134,6 +8134,12 @@
           "id": "wrath",
           "emoji_id": "848803062700703784",
           "emoji_server": "14"
+        },
+        {
+          "name": "its a sapphire init",
+          "id": "its_a_sapphire_init",
+          "image": "H2aFdTCHQ7.png",
+          "preset_type": "item"
         }
       ]
     },
