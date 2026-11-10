@@ -14399,6 +14399,12 @@
           "id": "spirit_sapphire",
           "image": "xsfAtbWabl.png",
           "preset_type": "item"
+        },
+        {
+          "name": "PVME Development Test",
+          "id": "pvme_dev_smoke_20261110",
+          "emoji_id": 1569731936992108644,
+          "emoji_server": 1
         }
       ]
     },
